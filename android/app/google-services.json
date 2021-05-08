@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230116423491",
+    "project_id": "trial-b0a1d",
+    "storage_bucket": "trial-b0a1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230116423491:android:1e7a003b4cb153603921f6",
+        "android_client_info": {
+          "package_name": "com.example.rorida_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230116423491-v7o0gvvbtcqickghl471p0fqg67gmktr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw2sfk7gTjvOav5nXtTZZUpswIYqxPFHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230116423491-v7o0gvvbtcqickghl471p0fqg67gmktr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
