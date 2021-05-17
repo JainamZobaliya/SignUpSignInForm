@@ -1,16 +1,8 @@
-# rorida_task
+# SignUpSignIn Form
 
-A new Flutter project.
+This Flutter App has two user access: Doctor and Patient. Both have a Sign Up and Sign In option. 
+Once credential used with any user account can't be reused, for other user access. 
+(Note: Password Pattern: It should be alphanumeric and of minimum length 6.)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## APK Link
+https://drive.google.com/drive/folders/12iss7BbL5YOEmKFHait7R6RfiNf0BaEZ
